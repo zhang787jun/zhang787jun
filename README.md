@@ -3,14 +3,17 @@
 
 ### 🚀 Things I do
 
-- **NLP Engineer**,
+- **Data mining Engineer**,
+- **CV**
+- **AIOT**
+- **Time series**
+
 
 ### 📬 Find me at
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zhang787jun@gmail.com)](mailto:zhang787jun@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zhang787jun.github.io/)](https://zhang787jun.github.io/) 
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=monologg&show_icons=true&hide_border=False)](https://github.com/zhang787jun)
+[![github stats](https://github-readme-stats.vercel.app/api?username=zhang787jun&show_icons=true&hide_border=False)](https://github.com/zhang787jun)
 
 <!--
 **zhang787jun/zhang787jun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
