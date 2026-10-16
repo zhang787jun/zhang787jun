@@ -1,34 +1,32 @@
-### Hi there 👋
+# Jim Zhang
 
+**AI perception · Data feedback loops · Engineering leadership**
 
-### 🚀 Things I do
+My background spans AI perception, data feedback loops, and technical team management. This GitHub brings together technical notes and public engineering examples.
 
-- **Data mining**
-- **CV**
-- **Time series**
-- **AIOT**
+## AI and engineering notes
 
+[**Personal knowledge wiki**](https://github.com/zhang787jun/Wiki)
 
+Notes on computer vision, data science, deployment tools, and software engineering. Coverage and depth vary across topics; the repository is a working reference library.
 
-### 📬 Find me at
+## Selected engineering example
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zhang787jun@gmail.com)](mailto:zhang787jun@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zhang787jun.github.io/)](https://zhang787jun.github.io/) 
+[**dsh-finance**](https://github.com/zhang787jun/dsh-finance)
 
+A community adaptation of Anthropic's Finance plugin for DeepSeek Harness, with deterministic validation tools and explicit human-review boundaries. The repository documents the upstream source, adaptation scope, implementation, and tests.
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=zhang787jun&show_icons=true&hide_border=False)](https://github.com/zhang787jun)
+## Research example
 
-<!--
-**zhang787jun/zhang787jun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[**Quant research showcase**](https://github.com/zhang787jun/qlib-quant-showcase)
 
-Here are some ideas to get you started:
+Factor-research and backtesting examples using deterministic synthetic ETF-style data. The examples illustrate the research workflow and reporting structure. Qlib integration remains on the roadmap.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Open-source contribution
+
+[**dsh-finance directory listing**](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/215). Contributed the plugin entry to the community directory.
+
+## Contact
+
+[Email](mailto:zhang787jun@gmail.com)
+
