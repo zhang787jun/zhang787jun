@@ -1,32 +1,34 @@
-# Jim Zhang
+### Hi there 👋
 
-**AI perception · Data feedback loops · Engineering leadership**
 
-My background spans AI perception, data feedback loops, and technical team management. This GitHub brings together technical notes and public engineering examples.
+### 🚀 Things I do
 
-## AI and engineering notes
+- **Data mining**
+- **CV**
+- **Time series**
+- **AIOT**
 
-[**Personal knowledge wiki**](https://github.com/zhang787jun/Wiki)
 
-Notes on computer vision, data science, deployment tools, and software engineering. Coverage and depth vary across topics; the repository is a working reference library.
 
-## Selected engineering example
+### 📬 Find me at
 
-[**dsh-finance**](https://github.com/zhang787jun/dsh-finance)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zhang787jun@gmail.com)](mailto:zhang787jun@gmail.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zhang787jun.github.io/)](https://zhang787jun.github.io/) 
 
-A community adaptation of Anthropic's Finance plugin for DeepSeek Harness, with deterministic validation tools and explicit human-review boundaries. The repository documents the upstream source, adaptation scope, implementation, and tests.
 
-## Research example
+[![github stats](https://github-readme-stats.vercel.app/api?username=zhang787jun&show_icons=true&hide_border=False)](https://github.com/zhang787jun)
 
-[**Quant research showcase**](https://github.com/zhang787jun/qlib-quant-showcase)
+<!--
+**zhang787jun/zhang787jun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Factor-research and backtesting examples using deterministic synthetic ETF-style data. The examples illustrate the research workflow and reporting structure. Qlib integration remains on the roadmap.
+Here are some ideas to get you started:
 
-## Open-source contribution
-
-[**dsh-finance directory listing**](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/215). Contributed the plugin entry to the community directory.
-
-## Contact
-
-[Email](mailto:zhang787jun@gmail.com)
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
